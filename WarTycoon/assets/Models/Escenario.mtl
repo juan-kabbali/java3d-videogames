@@ -1,0 +1,54 @@
+newmtl SnowTerrain1:Material_001
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 1.00
+Ks 0.11 0.11 0.11
+Ns 29.41
+newmtl SnowTerrain1:Material_005
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl blinn1SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl initialShadingGroup
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 1.00
+newmtl lambert2SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 1.00
+newmtl lambert3SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd Piso.png
+Ni 1.00
+newmtl lambert4SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd Columnas_cemento.png
+Ni 1.00
+newmtl lambert5SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd Paredes.jpg
+Ni 1.00
+newmtl lambert6SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd textura-del-exterior-del-edificio-industrial.jpg
+Ni 1.00
