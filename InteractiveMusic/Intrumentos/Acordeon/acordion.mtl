@@ -1,0 +1,65 @@
+newmtl acordion:default1
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd ac1.jpg
+Ni 0.00
+Ks 1.00 1.00 1.00
+Ns 1.00
+newmtl acordion:default_accordion
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd ac2b.jpg
+Ni 0.00
+Ks 1.00 1.00 1.00
+Ns 1.00
+newmtl acordion:default_belts
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 0.00
+Ks 1.00 1.00 1.00
+Ns 1.00
+newmtl acordion:default_black
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 0.00
+Ks 1.00 1.00 1.00
+Ns 1.00
+newmtl acordion:default_chrome
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 0.00
+Ks 1.00 1.00 1.00
+Ns 1.00
+newmtl acordion:default_holder
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 0.00
+Ks 1.00 1.00 1.00
+Ns 1.00
+newmtl acordion:default_keys
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 0.00
+Ks 1.00 1.00 1.00
+Ns 1.00
+newmtl acordion:default_label
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 0.00
+Ks 1.00 1.00 1.00
+Ns 1.00
+newmtl acordion:default_stand
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 0.00
+Ks 1.00 1.00 1.00
+Ns 1.00

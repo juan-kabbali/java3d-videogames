@@ -1,0 +1,153 @@
+newmtl Fountain:Fountain:blinn1SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd negroSilla.JPG
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl Fountain:Fountain:oceanShader1SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 0.00
+newmtl Hyophorbe_lagenicaulis1:lambert1SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd piedras.JPG
+Ni 1.00
+newmtl blinn1SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd hojasVerdes.JPG
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn2SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd azul.jpg
+Ni 1.00
+newmtl blinn3SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd verdeSilla.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn4SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd B.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl escenario:TrashCan
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd piedras.JPG
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl escenario:initialShadingGroup
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 1.00
+newmtl initialShadingGroup
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 1.00
+newmtl lambert2SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl lambert3SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd piso1.jpg
+Ni 1.00
+newmtl lambert4SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd textureWall.jpg
+Ni 1.00
+newmtl lambert5SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd sillaMadera.jpg
+Ni 1.00
+newmtl lambert6SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd uv8.jpg
+Ni 1.00
+newmtl lambert7SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd uv9.jpg
+Ni 1.00
+newmtl lambert9SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd acustico.JPG
+Ni 1.00
+newmtl lambert10SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd enfermeria.JPG
+Ni 1.00
+newmtl lambert11SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd uv10.jpg
+Ni 1.00
+newmtl lambert12SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd uv11.jpg
+Ni 1.00
+newmtl lambert14SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd uv5.JPG
+Ni 1.00
+newmtl lambert15SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd info2.JPG
+Ni 1.00
+newmtl lambert16SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd NUBE.jpg
+Ni 1.00
+newmtl palm1SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd palm1_uv_m2.bmp
+Ni 1.00
+newmtl palm1SG1
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd palm1_uv_m2.bmp
+Ni 1.00

@@ -1,0 +1,334 @@
+newmtl initialShadingGroup
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 1.00
+newmtl lambert2SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd ParedAcustico.JPG
+Ni 1.00
+newmtl lambert3SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd puerta.jpg
+Ni 1.00
+newmtl p:Box04SG1
+illum 4
+Kd 1.0 1.0 1.0
+Ka 1.00 1.00 1.00
+map_Kd drum_kit_diffuse.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl p:Box04SG3
+illum 4
+Kd 1.0 1.0 1.0
+Ka 1.00 1.00 1.00
+map_Kd drum_kit_diffuse.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl p:Box04SG5
+illum 4
+Kd 1.0 1.0 1.0
+Ka 1.00 1.00 1.00
+map_Kd drum_kit_diffuse.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl p:Buttons
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd Buttons.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl p:Everything_Else
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl p:Material_001
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl p:Material_003
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl p:Material_004
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl p:Material_007
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl p:Material_0010
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl p:Metal_ChromeFast
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl p:None
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl p:Object03SG1
+illum 4
+Kd 1.0 1.0 1.0
+Ka 1.00 1.00 1.00
+map_Kd drum_kit_diffuse.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl p:blinn1SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd WoodFine0017_M.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl p:blinn1SG2
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd aireAcondicionado.JPG
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl p:blinn1SG4
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd WoodFine0017_M.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl p:blinn2SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl p:blinn4SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 0.06
+newmtl p:blinn5SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 1.00
+Ks 0.25 0.25 0.25
+Ns 0.06
+newmtl p:default2
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd ac1.jpg
+Ni 0.00
+Ks 1.00 1.00 1.00
+Ns 1.00
+newmtl p:default_accordion
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd ac2b.jpg
+Ni 0.00
+Ks 1.00 1.00 1.00
+Ns 1.00
+newmtl p:default_black
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 0.00
+Ks 1.00 1.00 1.00
+Ns 1.00
+newmtl p:default_chrome
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 0.00
+Ks 1.00 1.00 1.00
+Ns 1.00
+newmtl p:initialShadingGroup
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 1.00
+newmtl p:lambert2SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd color-negro.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl p:lambert3SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 1.00
+newmtl p:lambert4SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 1.00
+newmtl p:lambert5SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd Tablero.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl p:lambert6SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 1.00
+newmtl p:lambert6SG2
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 1.00
+newmtl p:lambert7SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 1.00
+newmtl p:lambert8SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 1.00
+newmtl p:lambert8SG2
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 1.00
+newmtl p:lambert9SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 1.00
+newmtl p:lambert10SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 1.00
+newmtl p:lambert11SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 1.00
+newmtl p:lambert12SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 1.00
+newmtl p:lambert13SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl p:phong1SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl p:phong2SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd trompeta.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl p:phong3SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd saxofon.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl p:phong3SG2
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd plasticoPiano.JPG
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl p:phong4SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd guitarraElectrica.JPG
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl p:phong5SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd aireAcondicionado.JPG
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl p:phong6SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd negroBombo.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl p:phong12SG
+illum 4
+Kd 1.0 1.0 1.0
+Ka 0.00 0.00 0.00
+map_Kd metal-texture.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
