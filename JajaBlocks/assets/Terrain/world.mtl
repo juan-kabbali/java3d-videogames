@@ -1,0 +1,71 @@
+# Blender MTL File: 'jhonny.blend'
+# Material Count: 7
+
+newmtl Material.001
+Ns 94.117647
+Ka 0.100000 0.100000 0.100000
+Kd 0.512000 0.512000 0.512000
+Ks 0.250000 0.250000 0.250000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd Prueba1.9\assets\Models\Terrain\roca.jpg
+
+newmtl Material.001_InkFull0001_1_L.jpg
+Ns 94.117647
+Ka 0.100000 0.100000 0.100000
+Kd 0.512000 0.512000 0.512000
+Ks 0.250000 0.250000 0.250000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd Prueba1.9\assets\Models\Terrain\InkFull0001_1_L.jpg
+
+newmtl Material.001_InkFull0001_1_L_(1).jpg
+Ns 94.117647
+Ka 0.100000 0.100000 0.100000
+Kd 0.512000 0.512000 0.512000
+Ks 0.250000 0.250000 0.250000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd Prueba1.9\assets\Models\Terrain\InkFull0001_1_L (1).jpg
+
+newmtl Material.001_MetalFloorsBare0034_2_L.jpg
+Ns 94.117647
+Ka 0.100000 0.100000 0.100000
+Kd 0.512000 0.512000 0.512000
+Ks 0.250000 0.250000 0.250000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd Prueba1.9\assets\Models\Terrain\MetalFloorsBare0034_2_L.jpg
+
+newmtl Material.001_MetalPainted0094_1_L.jpg
+Ns 94.117647
+Ka 0.100000 0.100000 0.100000
+Kd 0.512000 0.512000 0.512000
+Ks 0.250000 0.250000 0.250000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd Prueba1.9\assets\Models\Terrain\MetalPainted0094_1_L.jpg
+
+newmtl Material.001_NONE
+Ns 94.117647
+Ka 0.100000 0.100000 0.100000
+Kd 0.512000 0.512000 0.512000
+Ks 0.250000 0.250000 0.250000
+Ni 1.000000
+d 0.000000
+illum 2
+
+newmtl Material.001_light-blue-background-3.jpg
+Ns 94.117647
+Ka 0.100000 0.100000 0.100000
+Kd 0.512000 0.512000 0.512000
+Ks 0.250000 0.250000 0.250000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd Prueba1.9\assets\Models\Terrain\light-blue-background-3.jpg
